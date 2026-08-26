@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/cover.jpg" alt="Sdaem.by — сервис посуточной аренды" width="760" height="300px">
+  <img src="./public/cover.jpg" alt="Sdaem.by — сервис посуточной аренды" width="100%" height="auto">
 </p>
 
 # Sdaem.by
