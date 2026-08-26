@@ -2,8 +2,9 @@
     <img
     src="./public/cover.jpg"
     alt="Agregator"
-     width="1200"
-    style="display: block; margin-top: "-100px;""
+    width="1200"
+    height="400"
+    style="object-fit: cover; object-position: center
   />
 </p>
 
