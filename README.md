@@ -1,13 +1,4 @@
-<img width="800" height="533" alt="Cover2" src="https://github.com/user-attachments/assets/19198def-cb9b-496e-aa86-79cdfe8222c0" />
-
-<p align="center">
-    <img
-    src="./public/cover.jpg"
-    alt="Agregator"
-     width="100%"
-     height="auto"
-     style="object-fit: cover; object-position: center;"/>
-</p>
+<img width="600" height="400" alt="Cover3" src="https://github.com/user-attachments/assets/c4eecc4d-deca-472f-9ba7-7096f3b36fd3" />
 
 # 🏠 Sdaem.by — сервис посуточной аренды
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
