@@ -4,8 +4,8 @@
     <img
     src="./public/cover.jpg"
     alt="Agregator"
-     width="800"
-     height="400"
+     width="100%"
+     height="auto"
      style="object-fit: cover; object-position: center;"/>
 </p>
 
