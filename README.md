@@ -2,7 +2,7 @@
     <img
     src="./public/cover.jpg"
     alt="Agregator"
-    width="1200"
+    width="800"
     height="400"
     style="object-fit: cover; object-position: center
   />
