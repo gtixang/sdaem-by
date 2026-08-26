@@ -2,8 +2,6 @@
   <img src="./public/cover.jpg" alt="Sdaem.by — сервис посуточной аренды" width="100%" height="400px" object-fit="cover">
 </p>
 
-# Sdaem.by
-
 # 🏠 Sdaem.by — сервис посуточной аренды
 
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
