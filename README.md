@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="Cover3" src="https://github.com/user-attachments/assets/c4eecc4d-deca-472f-9ba7-7096f3b36fd3" />
+<img width="1000" height="400" alt="Cover3" src="https://github.com/user-attachments/assets/c4eecc4d-deca-472f-9ba7-7096f3b36fd3" />
 
 # 🏠 Sdaem.by — сервис посуточной аренды
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
