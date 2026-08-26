@@ -1,3 +1,4 @@
+![Uploading Cover2.jpg…]()
 <p align="center">
     <img
     src="./public/cover.jpg"
