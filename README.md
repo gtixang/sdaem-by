@@ -1,5 +1,7 @@
-<img width="400" height="267" alt="Cover" src="https://github.com/user-attachments/assets/e95e9cb6-f67b-499f-b818-7d348e1985be" />
 
+<a href="https://sdaem-by-one.vercel.app/">
+  <img width="400" height="267" alt="Cover" src="https://github.com/user-attachments/assets/e95e9cb6-f67b-499f-b818-7d348e1985be" />
+<a/>
 # 🏠 Sdaem.by — сервис посуточной аренды
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
 
