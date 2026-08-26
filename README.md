@@ -4,7 +4,7 @@
 
 # Sdaem.by
 
-Sdaem.by — сервис посуточной аренды.
+# 🏠 Sdaem.by — сервис посуточной аренды
 
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
 
