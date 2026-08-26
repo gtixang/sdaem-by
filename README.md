@@ -2,9 +2,9 @@
     <img
     src="./public/cover.jpg"
     alt="Agregator"
-    width="1000"
-    height="400"
-    style="object-fit: cover; object-position: center"/>
+     width="1200"
+    height="450"
+      style="object-fit: cover; object-position: center;"/>
 </p>
 
 # 🏠 Sdaem.by — сервис посуточной аренды
