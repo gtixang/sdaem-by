@@ -1,4 +1,5 @@
-![Uploading Cover2.jpg…]()
+<img width="800" height="533" alt="Cover2" src="https://github.com/user-attachments/assets/19198def-cb9b-496e-aa86-79cdfe8222c0" />
+
 <p align="center">
     <img
     src="./public/cover.jpg"
