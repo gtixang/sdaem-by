@@ -3,7 +3,7 @@
     src="./public/cover.jpg"
     alt="Agregator"
      width="1200"
-    style="display: block; margin-top: -100px;""
+    style="display: block; margin-top: "-100px;""
   />
 </p>
 
