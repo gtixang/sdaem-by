@@ -7,6 +7,7 @@
     style="object-fit: cover; object-position: center
   />
 </p>
+</br>
 
 # 🏠 Sdaem.by — сервис посуточной аренды
 **Демо:** [sdaem-by-one.vercel.app](https://sdaem-by-one.vercel.app/)
